@@ -1,4 +1,6 @@
 {
+    "name": "fdwebtech/symfony5-skeleton",
+    "description": "This is Symfony 5 skeleton with some useful packages.",
     "type": "project",
     "license": "proprietary",
     "require": {
