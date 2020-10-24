@@ -33,6 +33,9 @@ To enable LexikJWT in your authentication, uncomment `login` , `api` firewall an
         # - { path: ^/api/login, roles: IS_AUTHENTICATED_ANONYMOUSLY }
         # - { path: ^/api,       roles: IS_AUTHENTICATED_FULLY }
 ```
+#### Generate JWT public/private key
+
+Execute `php bin/console lexik:generate-keys`
 
 #### User Checker
 
