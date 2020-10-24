@@ -2,17 +2,19 @@
 
 ---
 
-This is Symfony 5 skeleton that is use for fresh project. 
+This is Symfony 5 skeleton that included some common use packages and config that is able to use in a fresh project. 
 
 This composer.json include lots of useful packages that suitable for most of the REST-API frontend + backend project.
 
- `composer create-project fdwebtech/symfony5-skeleton`.
+## Documentation
 
-## Additional packages that are included
+[DTO automapper configuration](./docs/dto-automapper.md)
+[Security configuration](./docs/security.md)
+[Transformer configuration](./docs/transformer.md)
 
-This composer.json include some packages other than Symfony 5 itself.
+## Packages that are included:
 
-you may clone and modify the composer.json before install or remove the package after install.
+To disable a bundle/package, you may remove it using composer command or if you wish to reuse it later then just simply go to `/config/bundles.php` and comment it out.
 
 - [AutoMapperBundle](https://github.com/mark-gerarts/automapper-plus-bundle)
 - [VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle)
