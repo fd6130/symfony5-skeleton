@@ -8,9 +8,9 @@ This composer.json include lots of useful packages that suitable for most of the
 
 ## Documentation
 
-[DTO automapper configuration](./docs/dto-automapper.md)
-[Security configuration](./docs/security.md)
-[Transformer configuration](./docs/transformer.md)
+- [DTO automapper configuration](./docs/dto-automapper.md)
+- [Security configuration](./docs/security.md)
+- [Transformer configuration](./docs/transformer.md)
 
 ## Packages that are included:
 
