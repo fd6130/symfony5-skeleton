@@ -6,7 +6,9 @@ This is Symfony 5 skeleton that included some common use packages and config tha
 
 This composer.json include lots of useful packages that suitable for most of the REST-API frontend + backend project.
 
-**Remember reset your APP_SECRET in `.env` using [Secret Generator](https://coderstoolbox.online/toolbox/generate-symfony-secret).**
+- **Remember reset your APP_SECRET in `.env` using [Secret Generator](https://coderstoolbox.online/toolbox/generate-symfony-secret).**
+- **If you clone the repository from git command, remember to delete the `.git` and reinitialize git using `git init` after clone.**
+
 
 ## Documentation
 
