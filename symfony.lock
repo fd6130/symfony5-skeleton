@@ -108,14 +108,14 @@
     "egulias/email-validator": {
         "version": "2.1.22"
     },
+    "etnynl/jwt-refresh-token-bundle": {
+        "version": "v0.9.3"
+    },
     "fdwebtech/lexik-jwt-command-bundle": {
         "version": "0.0.1"
     },
     "fgrosse/phpasn1": {
         "version": "v2.2.0"
-    },
-    "gesdinet/jwt-refresh-token-bundle": {
-        "version": "v0.9.1"
     },
     "guzzlehttp/guzzle": {
         "version": "6.5.5"
