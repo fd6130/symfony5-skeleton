@@ -10912,12 +10912,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fd6130/maker-bundle.git",
-                "reference": "cadbd5f3f6b4745d934635473be21cf2dcf2115f"
+                "reference": "02c828008ab5aed5bf87a35d0221e398f82c5963"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fd6130/maker-bundle/zipball/cadbd5f3f6b4745d934635473be21cf2dcf2115f",
-                "reference": "cadbd5f3f6b4745d934635473be21cf2dcf2115f",
+                "url": "https://api.github.com/repos/fd6130/maker-bundle/zipball/02c828008ab5aed5bf87a35d0221e398f82c5963",
+                "reference": "02c828008ab5aed5bf87a35d0221e398f82c5963",
                 "shasum": ""
             },
             "require": {
@@ -10980,7 +10980,7 @@
             "support": {
                 "source": "https://github.com/fd6130/maker-bundle/tree/master"
             },
-            "time": "2020-10-25T14:12:56+00:00"
+            "time": "2020-10-25T15:02:57+00:00"
         },
         {
             "name": "nikic/php-parser",
