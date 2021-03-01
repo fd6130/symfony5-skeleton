@@ -1,6 +1,0 @@
-# knp_paginator:
-#     default_options:
-#         distinct: false
-#         sort_field_name: defaultSort     # i change this because it mess up my result when i use 'xxx.com?sort' query string      
-#     template:
-#         pagination: '_pagination.html.twig'     # sliding pagination controls template
